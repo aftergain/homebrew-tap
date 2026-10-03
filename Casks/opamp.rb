@@ -1,6 +1,6 @@
 cask "opamp" do
-  version "0.2.27"
-  sha256 "cb558236a13acec93e6b0fe2eb65c7406cee2021fcf5c0d1122048c131038edc"
+  version "0.2.28"
+  sha256 "8f4c484f76995cc118bd19750ccd406c6c3c92b7055a658ab01ba0d16eb5a641"
 
   url "https://github.com/aftergain/OP.Amp/releases/download/v#{version}/OP.Amp-#{version}-macOS-arm64.dmg"
   name "OP!Amp"
